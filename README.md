@@ -123,7 +123,7 @@ anshul-portfolio/
 # 🤝 Connect With Me
 
 ## 🔗 LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anshlibraray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anshlibrary)
 
 ## 📧 Email
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kashyapanshul299@gmail.com)
