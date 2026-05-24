@@ -39,14 +39,14 @@ A fully responsive and modern developer portfolio website built using **HTML, CS
 # 📸 Project Preview
 
 ## 💻 Desktop View
-https://github.com/Anshlibrary/anshul-portfolio/profile.jpg
+https://github.com/Anshlibrary/anshul-portfolio/blob/main/profile.jpg
 
 ```md
 ![Desktop Preview](images/desktop-preview.png)
 ```
 
 ## 📱 Mobile View
-(https://github.com/Anshlibrary/anshul-portfolio/profile.jpg)
+https://github.com/Anshlibrary/anshul-portfolio/blob/main/profile.jpg
 
 ```md
 ![Mobile Preview](images/mobile-preview.png)
