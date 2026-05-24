@@ -123,13 +123,13 @@ anshul-portfolio/
 # 🤝 Connect With Me
 
 ## 🔗 LinkedIn
-(https://www.linkedin.com/in/anshlibrary/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anshlibraray)
 
 ## 📧 Email
-kashyapanshul299@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kashyapanshul299@gmail.com)
 
 ## 🌐 Portfolio
-https://anshlibrary.github.io/anshul-portfolio/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://anshlibrary.github.io/anshul-portfolio/)
 
 ---
 
