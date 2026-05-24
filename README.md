@@ -38,20 +38,6 @@ A fully responsive and modern developer portfolio website built using **HTML, CS
 
 # 📸 Project Preview
 
-## 💻 Desktop View
-https://github.com/Anshlibrary/anshul-portfolio/blob/main/profile.jpg
-
-```md
-![Desktop Preview](images/desktop-preview.png)
-```
-
-## 📱 Mobile View
-https://github.com/Anshlibrary/anshul-portfolio/blob/main/profile.jpg
-
-```md
-![Mobile Preview](images/mobile-preview.png)
-```
-
 ---
 
 # ⚙️ Installation & Setup
@@ -62,13 +48,13 @@ Clone the repository:
 git clone https://github.com/Anshlibrary/anshul-portfolio.git
 ```
 
-Open the project folder:
+Open the project folder: Put yoyr name accordingly
 
 ```bash
 cd anshul-portfolio
 ```
 
-Run locally by opening:
+Run locally by opening: All code it in index.html [Click here]( https://github.com/Anshlibrary/anshul-portfolio/blob/main/index.html)
 
 ```bash
 index.html
