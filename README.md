@@ -112,8 +112,6 @@ Save changes and GitHub will generate your live website link.
 ```bash
 anshul-portfolio/
 │── index.html
-│── new.html
-│── initialized/
 │── profile.jpg
 └── README.md
 ```
