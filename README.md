@@ -48,7 +48,7 @@ Clone the repository:
 git clone https://github.com/Anshlibrary/anshul-portfolio.git
 ```
 
-Open the project folder: Put yoyr name accordingly
+Open the project folder: Put your name accordingly
 
 ```bash
 cd anshul-portfolio
